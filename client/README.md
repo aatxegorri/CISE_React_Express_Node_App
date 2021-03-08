@@ -1,3 +1,5 @@
+Kinda bug and kinda snack 🐛🍓 Try to catch 'em in your trap 🐛🍌 Feed somebody and you'll see 🐛🍕 We are whatever we eat 🐛🍔 Find 'em hiding in the sand 🐛🌭 Tearing up a ketchup patch 🐛🍩 Come to Snaktooth Island and discover 🐛🥑 It's Bugsnax 🐛🍪
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
